@@ -1,0 +1,3 @@
+# Visualizing Geographic Data with D3.js
+
+A book in progress
